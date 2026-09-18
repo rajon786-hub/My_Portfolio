@@ -9,8 +9,3 @@ Personal portfolio website for Rajon Das.
 - About, skills, experience, projects, thesis and education
 - GitHub Pages ready
 
-## GitHub Pages
-Repository: `jannatulferdousafrin060-ctrl/portfolio`
-
-Enable Pages from:
-Settings → Pages → Deploy from a branch → `main` → `/(root)`
